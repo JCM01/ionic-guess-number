@@ -1,0 +1,7 @@
+{
+  "name": "minijuego",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

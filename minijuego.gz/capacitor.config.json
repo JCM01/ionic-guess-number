@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "minijuego",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
